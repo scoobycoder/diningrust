@@ -1,0 +1,4 @@
+[package]
+name = "dining_rust"
+version = "0.1.0"
+authors = ["scoobycoder <scoobycoder@gmail.com>"]
